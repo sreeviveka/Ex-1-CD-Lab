@@ -78,5 +78,6 @@ int main() {
 ```
 # OUTPUT
 <img width="760" height="393" alt="Screenshot 2025-09-01 103240" src="https://github.com/user-attachments/assets/543673d0-2da4-43a9-84be-cf99ba4f8ead" />
+
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
